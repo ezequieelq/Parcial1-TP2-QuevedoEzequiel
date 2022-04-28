@@ -1,0 +1,22 @@
+{
+  "type":"module",
+  "name": "parcial1-tp2-quevedoezequiel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/index.js",
+    "start": "node src/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ezequieelq/Parcial1-TP2-QuevedoEzequiel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ezequieelq/Parcial1-TP2-QuevedoEzequiel/issues"
+  },
+  "homepage": "https://github.com/ezequieelq/Parcial1-TP2-QuevedoEzequiel#readme"
+}
